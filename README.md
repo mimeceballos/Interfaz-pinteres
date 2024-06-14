@@ -12,7 +12,8 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
  + **CSS3**: Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_
  + **Google Icons**: Para iconos personalizados
  
-  ### Vista previs del proyecto
+### Vista previa del proyecto
+  ![Demo](/imagenes/interfaz)
 
-  ### Contacto
-  Karime Ceballos Castillo: [Mi Instagram](https://www.instagram.com/mime.ceballos/)
+### Contacto
+ Karime Ceballos Castillo: [Mi Instagram](https://www.instagram.com/mime.ceballos/)
