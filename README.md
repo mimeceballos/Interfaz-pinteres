@@ -13,7 +13,7 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
  + **Google Icons**: Para iconos personalizados
  
 ### Vista previa del proyecto
-  ![Demo](/imagenes/interfaz)
+  ![Demo](/imagenes/interfaz.png)
 
 ### Contacto
  Karime Ceballos Castillo: [Mi Instagram](https://www.instagram.com/mime.ceballos/)
